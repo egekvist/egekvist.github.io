@@ -66,11 +66,20 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "C++ Programmering Grundkursus",
+      "date": "2024-10-21",
+      "issuer": "SuperUsers",
+      "url": "https://www.superusers.dk/kursus/su0203/",
+      "icon": "fa-solid fa-graduation-cap"
+
+    }
+    ,
+    {
+      "name": "Objektorienteret Grundkursus for C++",
+      "date": "2024-10-21",
+      "issuer": "SuperUsers",
+      "url": "https://www.superusers.dk/kursus/su0202/",
+      "icon": "fa-solid fa-graduation-cap"
     }
   ],
   "skills": [

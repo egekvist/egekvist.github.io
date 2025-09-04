@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Inverted Pendulum on a Cart
 description: with background image
 img: assets/img/12.jpg
 importance: 1
