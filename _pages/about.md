@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: something cool
+subtitle: 
 
 profile:
   align: right
@@ -15,4 +15,6 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-who am I?
+I’m a mechatronics engineer with a passion for designing and implementing integrated systems across hydraulics, electronics, mechanics, and control. I enjoy tackling complex challenges in system modeling, simulation, and real-world application. Skilled in embedded systems, C++, and MATLAB, I thrive at the intersection of software and hardware, turning ideas into functional, efficient solutions. I’m driven by innovation, precision, and building systems that perform reliably in practice.
+
+This website showcases some of my C++ projects and my CV.
