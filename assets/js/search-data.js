@@ -28,6 +28,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
+            },},{id: "projects-pendulum-on-a-cart",
+          title: 'Pendulum on a Cart',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pendulum.html";
             },},{
         id: 'social-email',
         title: 'email',
