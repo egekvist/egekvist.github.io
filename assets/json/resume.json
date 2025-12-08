@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Mads Egekvist",
-    "label": "Mechatronics Engineer",
     "image": "",
     "email": "mads-egekvist@hotmail.com",
     "phone": "+45 51419616",
@@ -40,7 +39,7 @@
       "url": "https://site-tech.dk/",
       "startDate": "2021-09",
       "endDate": "2022-06",
-      "summary": "Developed and implemented electrical solutions for escape rooms, working with 5V, 12V, and 230V systems. Maintained and repaired laser game equipment and established electrical circuits, often using Arduino and C code to create and fix simple electrical circuits and actuators. Enhanced problem-solving skills and gained hands-on experience with practical electrical engineering applications."
+      "summary": "Developed automated grout removal system using a frame with three stepper motors to control a drill, mimicking 3D printer mechanics. Implemented control algorithms for precise drill positioning and devised path planning strategies for DC motors to move the frame in X and Y directions, optimizing motor movements to adjust wire length and achieve accurate frame positioning. Enhanced skills in motor control, automation, and path planning in an innovative engineering startup environment."
     }
   ],
   "education": [
