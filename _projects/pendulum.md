@@ -2,7 +2,7 @@
 layout: page
 title: Pendulum on a Cart
 description: 
-img: assets/img/6.jpg
+img: assets/img/Pendulum_on_a_cart.jpg
 ---
 
 <style>
